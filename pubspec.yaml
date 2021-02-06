@@ -29,7 +29,9 @@ dependencies:
   sqflite: ^1.3.0
   path_provider:
   intl_phone_field: ^1.3.0
-  adhara_socket_io: ^0.4.2+1 
+  adhara_socket_io: ^0.4.2+1
+  firebase_auth: ^0.20.0+1
+  cloud_firestore: ^0.16.0
 
 dev_dependencies:
   flutter_test:

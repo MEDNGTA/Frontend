@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803530257012",
+    "project_id": "pet-backend-bb735",
+    "storage_bucket": "pet-backend-bb735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803530257012:android:a76e82699bf5549265d721",
+        "android_client_info": {
+          "package_name": "com.pet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803530257012-22cu2i62dtmd4f4a4q5ckesb14rrl27o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhcqptK0cSQlT6-oMkLNGxbMLM_WVjhbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803530257012-22cu2i62dtmd4f4a4q5ckesb14rrl27o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

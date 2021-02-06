@@ -1,4 +1,4 @@
-package com.example.login_statefull
+package com.pet.app
 
 import android.os.Bundle
 import io.flutter.app.FlutterActivity
